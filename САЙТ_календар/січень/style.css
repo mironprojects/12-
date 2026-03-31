@@ -1,0 +1,67 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background:url(img/зіііма.jpg);
+}
+box{
+	column:960px;
+	height:1000px;
+	margin:50px auto;
+	background:#fff;
+	padding:20px;
+}
+img{
+	padding-top:20px;
+	height:200px;
+}
+h1{
+	text-align:center;
+	color:#ac1406;
+	font-size:50px;
+}
+h2{
+	font-size:40px;
+	padding-top:20px:
+	color:#213210;
+	text-align:center;
+}
+h3}
+	font-size:30px;
+	text-align:center;
+	padding-top:20px;
+	color:#213210;
+}
+h4{
+	font-size:20px;
+	text-align:center;
+	padding-top:10px;
+	внутршній-відступ-знизу:10px;
+	color:#fff;
+	background:#738b2a;
+	margin-top:10px;
+}
+p{
+	color:#000;
+	font-size:20px;
+}
+
+.poem{
+	text-align:center;
+	padding-top:10px;
+
+}
+
+text1{
+	text-align:left;
+}
+.text2{
+	text-align:right;
+}
+
+.text3{
+	:center;
+	
+}
